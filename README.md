@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning AWS & Golang.
 - 🧰 some of the tools & technologies I'm currently working with :
     - Git
+    - PHP
     - Springboot
     - SQL, NoSQL
     - Swagger

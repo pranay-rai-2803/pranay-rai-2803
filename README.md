@@ -1,15 +1,10 @@
-- 👋 Hi, I’m Pranay, a software engineer with 1 year of experience in Java & SQL.
+- 👋 Hi, I’m Pranay, a software engineer with 2 year of experience in Java & SQL.
 - 👀 I’m interested in making open source contributions 
-- 🌱 I’m currently learning AWS & Golang.
 - 🧰 some of the tools & technologies I'm currently working with :
     - Git
-    - PHP
-    - Springboot
-    - SQL, NoSQL
-    - Swagger
-    - REST APIs
+    - Java
+    - SQL
     - AWS : EC2, Lambda, S3, RDS, Aurora, DynamoDB. 
-- 💞️ I’m looking to collaborate on Open-Source Golang projects.
 - 📫 How to reach me : pranaydevendrarai@gmail.com
 - #OpenToWork
 
